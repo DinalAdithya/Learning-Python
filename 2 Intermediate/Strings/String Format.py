@@ -1,4 +1,4 @@
-#new way
+#new way since python 3.6
 var = 3.123456
 var2 = 6
 new_string = f"the variable is {var} and {var2}"
