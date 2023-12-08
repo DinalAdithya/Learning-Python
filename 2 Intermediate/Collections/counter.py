@@ -1,4 +1,4 @@
-#spashal container data types
+#spashal container data types.
 
 from collections import Counter
 # counter store elements as key and there count as values

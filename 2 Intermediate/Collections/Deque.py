@@ -1,4 +1,4 @@
-# double ended queue this will allow us to add or remove the element from both ends
+# double ended queue this will allow us to add or remove the element from both ends.
 from collections import deque
 
 d = deque()

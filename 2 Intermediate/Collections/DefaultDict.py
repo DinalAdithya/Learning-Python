@@ -1,4 +1,4 @@
-# if the value does not exist this will give us a default value
+# if the value does not exist this will give us a default value.
 from collections import defaultdict
 
 d = defaultdict(int) # if we need to get the output as float,list,tuple we can simply use it here

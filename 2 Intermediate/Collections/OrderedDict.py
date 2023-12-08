@@ -1,4 +1,4 @@
-# what OrderedDict dose is it remember the items ware inserted
+# what OrderedDict dose is it remember the items ware inserted.
 # this is less important now because after Python 3.7 normal dict also dose the same
 
 from collections import OrderedDict
