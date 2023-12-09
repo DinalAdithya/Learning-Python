@@ -2,7 +2,7 @@
 
 from collections import Counter
 # counter store elements as key and there count as values
-a = "AAAAABBBBCC"
+a = "AAAAABBBBCCD"
 my_counter = Counter(a)
 
 print(my_counter.items())

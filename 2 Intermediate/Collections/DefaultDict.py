@@ -7,5 +7,5 @@ d['d'] = 2
 
 print(d['a'])
 print(d['d'])
-print("not existing value :", d['c'])
+print(d['c'])# c doesn't exist
 
