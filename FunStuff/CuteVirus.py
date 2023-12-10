@@ -6,6 +6,7 @@ for i in count():
     path = os.path.join(directory)
     os.mkdir(path)
 
+#to stop at 10 uncomment below comments
 #    if i == 10:
 #        break
 
